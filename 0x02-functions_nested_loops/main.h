@@ -1,5 +1,3 @@
-#ifndef COMMANDS_H_
-
 #include <unistd.h>
 
 /**
