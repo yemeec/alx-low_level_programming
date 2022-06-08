@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <stdlib.h>
+
 #include "main.h"
 /**
  * main - Entry point
@@ -6,7 +9,7 @@
  */
 int main(void)
 {
-	putchar('');
+	_putchar('');
 	_putchar('p');
 	_putchar('u');
 	_putchar('t');
