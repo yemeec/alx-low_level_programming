@@ -1,10 +1,4 @@
-/*
- * File: 8-24_hours.c
- * 
- */
-
 #include "main.h"
-
 /**
  * jack_bauer - Prints every minute of the day of
  *              Jack Bauer, starting from 00:00 to 23:59.
